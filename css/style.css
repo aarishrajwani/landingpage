@@ -8456,7 +8456,7 @@ h1, h2, h3, h4, h5,
           .owl-carousel.home-slider .slider-item .slider-text {
             text-align: center; } }
         .owl-carousel.home-slider .slider-item .slider-text .one-third {
-          width: 60%;
+          width: 100%;
           position: relative;
           z-index: -1; }
           .owl-carousel.home-slider .slider-item .slider-text .one-third .overlay {
@@ -8467,10 +8467,10 @@ h1, h2, h3, h4, h5,
             right: 0;
             background: #000000;
             opacity: 0; }
-          @media (max-width: 1199.98px) {
+          @media (max-width: 1920.98px) {
             .owl-carousel.home-slider .slider-item .slider-text .one-third {
-              width: 85%; } }
-          @media (max-width: 991.98px) {
+              width: 100%; } }
+          @media (max-width: 1080.98px) {
             .owl-carousel.home-slider .slider-item .slider-text .one-third {
               width: 100%;
               z-index: 0; }
